@@ -15,10 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Output
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Give the name of the location in search bar to get Weather Information 
+
+![Alt text](src/assets/cold-op.png)
+![Alt text](src/assets/warm-op.png)
